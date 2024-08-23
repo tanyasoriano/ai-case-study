@@ -18,6 +18,15 @@ Midjourney has a wide range of intended customers which includes professional ar
 
 A key element of Midjourney’s successful business model is Discord, a chat and online gathering site. Early models of Midjourney were released through Discord, encouraging collaboration and feedback from its community. Currently users now have the choice to interact directly with the Midjourney site or through Discord. The Midjourney Discord Server currently has over 20 million members.
 
+## Landscape
+Although successful and popular, Midjourney has some stiff competition in the field of Generative AI. Especially from competitors like OpenAI, Stability  AI, Adobe Firefly and many others. The race is on to continue training their models so that users get better and better results to their prompts. 
+
+Some companies have found their niche, such as Waifulabs, which focuses on Anime art.
+
+## Results
+The business impact of Midjourney is huge and has changed how other businesses get their work done, whether it is a marketing company working on advertising campaign ideas or an interior designer drafting mockups for a customer – various industries are using Midjourney to accomplish work tasks.
+
+Although Midjourney has accomplished immense success, it has not come without challenges, specifically regarding artists’ claims of copyright violation since Midjourney and other Generative AI trained on data from the internet. Legislation is playing catch up to technology. 
 
 
 
