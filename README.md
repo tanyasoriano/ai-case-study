@@ -26,7 +26,12 @@ Some companies have found their niche, such as Waifulabs, which focuses on Anime
 ## Results
 The business impact of Midjourney is huge and has changed how other businesses get their work done, whether it is a marketing company working on advertising campaign ideas or an interior designer drafting mockups for a customer – various industries are using Midjourney to accomplish work tasks.
 
-Although Midjourney has accomplished immense success, it has not come without challenges, specifically regarding artists’ claims of copyright violation since Midjourney and other Generative AI trained on data from the internet. Legislation is playing catch up to technology. 
+Midjourney has achieved remarkable success but has also faced significant challenges. Its impact, along with other AI-driven art tools, has profoundly altered the landscape of art-related industries. Artists now grapple with concerns about job security, compensation, and benefits as they navigate the competitive landscape shaped by AI technology. Moreover, Midjourney and other AI models have faced legal scrutiny, with artists alleging that their work has been used without permission to train these systems. As AI technology continues to advance, existing legislation struggles to keep pace with these rapidly evolving ethical and legal questions.
+
+## RECOMMENDATIONS
+Midjourney might eventually venture into direct-to-customer business marketing services. This could eliminate the need for intermediaries by offering comprehensive business development packages, effectively bypassing traditional marketing agencies that often utilize Midjourney for their own clients. New businesses seeking to establish their brand identity could potentially purchase complete packages encompassing logo design, website aesthetics, uniforms, digital advertising, and more. 
+Midjourney may also continue to develop niche art models such as their Niji model which caters to Anime enthusiasts. 
+
 
 
 
